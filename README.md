@@ -1,6 +1,6 @@
 # MetalsWeight
 
-**Very simple metals calculator based on the shape of a item and an alloy density of a material.**
+**Very simple metals calculator based on the shape of an item and the alloy density of a material.**
 
 ## Installation
 
