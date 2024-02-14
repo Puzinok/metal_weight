@@ -21,7 +21,6 @@ defmodule MetalsWeight.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:math, "~> 0.7.0"},
       {:credo, "~> 1.7", only: [:dev, :test], runtime: false}
     ]
   end
